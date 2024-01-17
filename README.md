@@ -3,7 +3,7 @@ Projekt nr. 3
 do 21.01.2024 22:00
 
 ## Graph 1
-![ADADASdASJKDBGFKAJSFKAJSHHFDGLIASU](https://github.com/Na-pewno-nie-Szymon/MetodyNumeryczne/blob/projekt3/graph_1.png?raw=true)
+!(https://github.com/Na-pewno-nie-Szymon/MetodyNumeryczne/blob/projekt3/graph_1.png?raw=true)
 
 porównując równania Gompertza oraz Verhulsta jesteśmy w stanie zauważyć różne podejście do wzrostu populacji. We wzorze Gompertza szybciej pojawia się wzrost oraz jest on szybszy niż we wzorze Verhulsta
 
