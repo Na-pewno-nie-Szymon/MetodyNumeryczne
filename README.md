@@ -3,7 +3,7 @@ Projekt nr. 3
 do 21.01.2024 22:00
 
 ## Graph 1
-'''python3
+```python3
 K = 100000  # max quantity
 r = .4      # growth factor
 
@@ -37,7 +37,7 @@ plt.xlabel('Time')
 plt.title('Comparison of Gompertz and Verhulst equations (1st graph)')
 plt.legend()
 plt.show()
-'''
+```
 porównując równania Gompertza oraz Verhulsta jesteśmy w stanie zauważyć różne podejście do wzrostu populacji. We wzorze Gompertza szybciej pojawia się wzrost oraz jest on szybszy niż we wzorze Verhulsta
 
 ## Graph 2
