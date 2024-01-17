@@ -4,6 +4,7 @@ do 21.01.2024 22:00
 
 ## Graph 1
 porównując równania Gompertza oraz Verhulsta jesteśmy w stanie zauważyć różne podejście do wzrostu populacji. We wzorze Gompertza szybciej pojawia się wzrost oraz jest on szybszy niż we wzorze Verhulsta
+![alt text](https://github.com/Na-pewno-nie-Szymon/MetodyNumeryczne/blob/projekt3/graph_1.png?raw=true)
 
 ## Graph 2
 Korzystając z parametrów z podpunktu "a" zauważamy, że obie populacje obu gatunków rosną względem stanu początkowego oraz docierają do pewnego stanu równowagi gdzie oba gatunki przeżywają.
