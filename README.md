@@ -1,5 +1,5 @@
 # Szymon Mirczak
-| Projekt nr. 3 | Modele populacyjne | Model ofiara-drapieżca |
+| Projekt nr. 3 | Modele populacyjne | Model ofiara-drapieżca | \n
 do 21.01.2024 22:00
 
 ## Graph 1
