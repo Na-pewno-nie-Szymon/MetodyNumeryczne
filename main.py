@@ -1,4 +1,3 @@
-
 import numpy as np 
 import matplotlib.pyplot as plt
 
@@ -59,6 +58,8 @@ def zadanie_1():
     plt.plot(time_frame, ET, color='orange', label='Exposed')
     plt.plot(time_frame, IT, color='red', label='Infectious')
     plt.plot(time_frame, RT, color='grey', label='Removed')
+    plt.xlabel('Time[t]')
+    plt.ylabel('Normalised population')
     plt.legend()
     plt.show()
 
@@ -98,6 +99,8 @@ def zadanie_2():
     plt.plot(time_frame, IT, color='red', label='Infectious')
     plt.plot(time_frame, RT, color='grey', label='Removed')
     plt.legend()
+    plt.ylabel('Normalised population')
+    plt.xlabel('Time[t]')
     plt.show()
 
 def zadanie_3_smaller_R():
@@ -140,6 +143,8 @@ def zadanie_3_smaller_R():
     plt.plot(time_frame, IT, color='red', label='Infectious')
     plt.plot(time_frame, RT, color='grey', label='Removed')
     plt.legend()
+    plt.ylabel('Normalised population')
+    plt.xlabel('Time[t]')
     plt.show()
 
 def zadanie_3_bigger_R():
@@ -182,6 +187,8 @@ def zadanie_3_bigger_R():
     plt.plot(time_frame, IT, color='red', label='Infectious')
     plt.plot(time_frame, RT, color='grey', label='Removed')
     plt.legend()
+    plt.ylabel('Normalised population')
+    plt.xlabel('Time[t]')
     plt.show()
 
 if __name__=='__main__':
